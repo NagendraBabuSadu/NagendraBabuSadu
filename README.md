@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NagendraBabuSadu
-- 👀 I’m interested in ASP.NET MVC and Web APIs
-- 🌱 I’m currently learning ASP.NET MVC and Web APIs
+- 👀 I’m interested in Frontend web applications.
+- 🌱 I’m currently learning React, Node & APIs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
